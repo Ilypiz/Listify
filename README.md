@@ -1,13 +1,6 @@
 
 
 
-![icon 2](https://github.com/user-attachments/assets/9c6300a8-1c3d-4732-9b92-f74cb2dcf483)
-
-
-
-
-
-
 # Listify
 Listify is an app created for anyone who wants to organize tasks easily and efficiently. Whether you're managing a to-do list, planning your shopping, or setting reminders, Listify helps you stay on top of everything in a simple way.
 
