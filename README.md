@@ -1,6 +1,6 @@
 
 
-<img src="icon 2.png" alt="Screenshot" width= "30%">
+<img src="app icon.png" alt="Screenshot" width= "30%">
 # Listify
 Listify is an app created for anyone who wants to organize tasks easily and efficiently. Whether you're managing a to-do list, planning your shopping, or setting reminders, Listify helps you stay on top of everything in a simple way.
 
