@@ -10,7 +10,7 @@ Listify is an app created for anyone who wants to organize tasks easily and effi
 * Mark tasks as completed to track your progress.
 
 🔨 Installation
-1. Clone this repository: `git clone <https://github.com/Ilypiz/Listify](https://github.com/Ilypiz/Listify.git>
+1. Clone this repository: `git clone <https://github.com/Ilypiz/Listify.git>
 2. Open the project in Xcode.
 3. Run the app on a simulator or connected device.
 
