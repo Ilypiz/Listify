@@ -17,3 +17,7 @@ Listify is an app created for anyone who wants to organize tasks easily and effi
 📑License
 
 This project is licensed under the MIT License. 
+
+## Screenshot
+
+<img src="Home.PNG" alt="Screenshot" width= "30%">  <img src="add.PNG" alt="Screenshot" width= "30%"> <img src="list.PNG" alt="Screenshot" width= "30%">
